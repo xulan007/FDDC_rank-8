@@ -5,7 +5,7 @@ data 文件夹需放入以下三个文件
 
 ----[Add June July] FDDC_financial_data_20180711.zip  
 
-----holder_share.csv (外部数据,已公开! 从网易财经网站爬取,公开链接:https://tianchi.aliyun.com/forum/new_articleDetail.html?raceId=231660&postsId=5390)
+----holder_share.csv (外部数据, 从网易财经网站爬取）
 
 
 ### 如何运行
